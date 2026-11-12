@@ -8,8 +8,8 @@ Hi, I'm Luke. I'm a high school student in Missouri building model and high-powe
 
 | Project | What it is | Status |
 |---|---|---|
-| Corvid | Custom flight computer PCB in KiCad: RP2350, LoRa telemetry, two barometers, pyro | Designing Rev A |
+| Fledgling | Custom flight computer PCB in KiCad: RP2350, LoRa telemetry, two barometers, pyro | Designing Rev A |
 | Raven | G-class rocket, ~3,000 ft, my first pyro deployment | Building |
-| Kestrel | Simple rocket flight simulator | Early |
+| Crow | LLM powered rocket flight simulator - takes arbitrary mission targets and optimizes for them over many sims | Building |
 
 Most of my projects are named after birds.
